@@ -2,5 +2,6 @@
 <Context docBase="C:\Work\jsp_project\jsp_board\src\webapp">
   <Resources cacheMaxSize="10240">
     <PreResources base="C:/Work/jsp_project/jsp_board/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PreResources base="C:/Work/apache-tomcat-10.1.33" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
   </Resources>
 </Context>
